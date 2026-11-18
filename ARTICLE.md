@@ -1,4 +1,14 @@
-# I Built an AI-Powered Extra Eye for My Curious Toddler: Exploring Object Detection with Roboflow
+<div align="center">
+
+# Toddler Safety: Small Object Detection with AI
+
+*A hands-on computer vision experiment using Roboflow*
+
+Exploring how AI can identify small household objects that may pose risks to curious toddlers.
+
+</div>
+
+---
 
 As a parent, I constantly find myself checking the floor for small objects my curious toddler might pick up. Coins, screws, washers and tiny toy components can easily go unnoticed.
 
@@ -46,7 +56,6 @@ The validation metrics were encouraging.
 | Recall | 93.9% |
 | F1 score | 94.2% |
 
-![Roboflow training results](assets/training-results.png.png)
 
 These results gave me a good starting point. However, I didn't want to evaluate the experiment based on validation metrics alone.
 
@@ -69,7 +78,7 @@ The confidence threshold determines how certain the model must be before reporti
 It also made me realize that a good validation score doesn't automatically translate into reliable performance on unfamiliar photographs.
 
 The testing stage was just as important as training.
-
+![Roboflow training results](assets/training-results.png.png)
 
 ## What I would improve in the next experiment
 
