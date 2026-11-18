@@ -35,7 +35,7 @@ I used Roboflow to prepare the dataset, train an object-detection model, and eva
 
 ### Model Training Results
 
-![Training Results](assets/training-results.png)
+![Roboflow Model Training Results](assets/training-results.png.png)
 
 ## What I Explored
 
