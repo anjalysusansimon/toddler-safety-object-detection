@@ -119,18 +119,18 @@ This would provide a better understanding of which objects the model detects rel
 
 ## What this experiment taught me
 
-I started with a parenting concern and ended up building and testing an object-detection model.
+I started with a parenting concern and ended up building and testing an object-detection model. More importantly, I discovered how accessible computer vision experimentation can be with tools such as Roboflow.
 
-More importantly, I discovered how accessible computer vision experimentation can be with tools such as Roboflow.
+This project is an experimental prototype, not a real-time baby-monitoring system or a certified choking-hazard detector. It cannot guarantee that every small object will be detected or replace adult supervision.
 
-## A prototype, not a safety guarantee
-
-This project is an experimental object-detection prototype. It is not a real-time baby-monitoring system or a certified choking-hazard detector.
-
-It cannot determine whether an environment is safe, guarantee that every small object will be detected, or replace adult supervision.
-
-The purpose was to explore whether an everyday parenting concern could be translated into a practical computer vision use case.
-
-I am particularly interested in taking this experiment further by improving the dataset, testing more challenging scenarios and understanding how model performance changes as the quality and diversity of training data improve.
+I would like to take this experiment further by improving the dataset and testing more challenging scenarios to understand how model performance changes.
 
 Sometimes, the most interesting part of building something with AI isn't getting the model to work. It's discovering what happens when you put it to the test.
+
+If you're a parent of a toddler, you've probably heard this advice a hundred times:
+
+"You need to have an eye on him all the time."
+
+My mother says it often, and honestly, she isn't wrong.
+
+But wouldn't an extra eye help?
